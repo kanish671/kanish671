@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://kanish671.github.io">About me</a> 
 <a href="https://www.linkedin.com/in/kanish671/">
   <img align="left" alt="Anish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
