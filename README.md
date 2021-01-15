@@ -1,5 +1,12 @@
 ### Hi there 👋
-##### WIP
+
+<a href="https://www.linkedin.com/in/kanish671/">
+  <img align="left" alt="Anish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+[![HitCount](http://hits.dwyl.com/kanish671/kanish671.svg)](http://hits.dwyl.com/kanish671/kanish671)
+
+##### STILL A WIP
 
 <!--
 **kanish671/kanish671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
