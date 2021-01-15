@@ -4,6 +4,7 @@
   About me
 </a>
 <br/>
+<br/>
 <a href="https://www.linkedin.com/in/kanish671/" target="_blank">
   <img align="left" alt="Anish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
