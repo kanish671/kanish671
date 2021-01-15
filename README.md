@@ -8,6 +8,9 @@
 <a href="https://www.linkedin.com/in/kanish671/" target="_blank">
   <img align="left" alt="Anish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://anishkrishnaswamy.medium.com/" target="_blank">
+  <img align="left" alt="Anish's Medium Blog" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+</a>
 <br/>
 <br/>
 
