@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-[![HitCount](http://hits.dwyl.com/kanish671/kanish671.svg)](http://hits.dwyl.com/kanish671/kanish671)
+![](https://visitor-badge.glitch.me/badge?page_id=kanish671.kanish671)
 
 ##### STILL A WIP
 
