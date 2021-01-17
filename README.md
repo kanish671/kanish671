@@ -23,7 +23,9 @@
 
 💬 Ask me about anything, I would be happy to help
 
-📫 How to reach me: [@kanish671](https://www.linkedin.com/in/kanish671/)
+📫 How to reach me: [@kanish671](https://twitter.com/kanish671/)
+
+📝 Read what I wrote: [@anishkrishnaswamy](https://anishkrishnaswamy.medium.com/)
 
 ###### STILL A WIP
 
