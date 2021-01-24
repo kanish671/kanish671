@@ -17,7 +17,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kanish671.kanish671)
 
 
-🔭 I’m currently working on building a CLI tool - [ranpass](https://github.com/kanish671/ranpass)
+🔭 I’m currently working at Target
 
 🌱 I’m currently learning Reactive Java & German
 
@@ -27,7 +27,7 @@
 
 📝 Read what I wrote: [@anishkrishnaswamy](https://anishkrishnaswamy.medium.com/)
 
-###### STILL A WIP
+###### STILL A WIP. WHAT ISN'T
 
 <!--
 **kanish671/kanish671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
