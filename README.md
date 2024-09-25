@@ -17,9 +17,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kanish671.kanish671)
 
 
-🔭 I’m currently working at Target
+🔭 I’m currently working at ImmoScout24
 
-🌱 I’m currently learning Reactive Java & German
+🌱 I’m currently learning Kotlin & German
 
 💬 Ask me about anything, I would be happy to help
 
