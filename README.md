@@ -19,11 +19,7 @@
 
 🔭 I’m currently working at ImmoScout24
 
-🌱 I’m currently learning Kotlin & German
-
 💬 Ask me about anything, I would be happy to help
-
-📫 How to reach me: [@kanish671](https://twitter.com/kanish671/)
 
 📝 Read what I wrote: [@anishkrishnaswamy](https://anishkrishnaswamy.medium.com/)
 
